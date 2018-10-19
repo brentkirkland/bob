@@ -22,6 +22,6 @@
 
 ##### Bob
 - notify: true
-- Remove or change notify to false, to not push title and body notes to change log.
+- Remove or change notify to false, to not push to change log.
 - Bob will only merge body title and body on successful merge.
 - Bob will only listen to Description, Changes, and Fixes
